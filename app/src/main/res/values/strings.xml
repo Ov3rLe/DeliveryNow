@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Delivery Now</string>
+    <string name="home_activity">Главная</string>
+    <string name="category_activity">Категории</string>
+    <string name="accept_activity">Заказ</string>
+    <string name="login_activity">Авторизация</string>
+    <string name="registration_activity">Регистрация</string>
+    <string name="profile_activity">Профиль</string>
+</resources>
